@@ -109,20 +109,20 @@
    },
    {
       "id": 6,
-      "model":"Concept_One",
+      "model":"Nevera",
       "make":"Rimac",
-      "top_speed":221,
-      "description":"This is the only electric supercar on this list, but it shows just how powerful electric cars can be. It has 1,224 BHP and can hit 60 in 2.5 seconds. We will soon see the next gen version, the Concept_Two, which will have 1,914 BHP.",
+      "top_speed":258,
+      "description":"This hypercar truly shows that the future of massive power cars will likely end up being electric. It has 1,914 BHP and can hit 62 MPH in ONLY 1.97 seconds!",
       "image":{
-         "sixHundred": "imgs/concept_one.jpeg",
-         "fourHundred": "imgs/concept_one-400.jpeg",
-         "threeFifty": "imgs/concept_one-350.jpeg",
-         "threeHundred": "imgs/concept_one-300.jpeg"
+         "sixHundred": "imgs/rimac_nevera.jpeg",
+         "fourHundred": "imgs/rimac_nevera-400.jpeg",
+         "threeFifty": "imgs/rimac_nevera-350.jpeg",
+         "threeHundred": "imgs/rimac_nevera-300.jpeg"
       },
       "imageSource":{
-         "url":"https://commons.wikimedia.org/wiki/File:2017-03-07_Geneva_Motor_Show_0949.JPG",
+         "url":"https://commons.wikimedia.org/wiki/File:Rimac_Nevera.jpg",
          "changes_made":"resized to 600px width",
-         "author":"Norbert Aepli, Switzerland"
+         "author":"User MrWalkr"
       }
    },
    {
