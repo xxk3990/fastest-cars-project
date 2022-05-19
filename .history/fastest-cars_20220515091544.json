@@ -58,7 +58,7 @@
       "model":"Tuatara",
       "make":"SSC",
       "top_speed":282.9,
-      "description":"Although initial testing had some problems, this car was able to set an average top speed of 282.9MPH with its 1,750 BHP. It can also hit 60 MPH in 2.5 seconds. ",
+      "description":"Although initial testing had some problems, this car was able to set an average top speed of 282.9MPH with it's 1,750 BHP. It can also hit 60 MPH in 2.5 seconds. ",
       "image": {
          "sixHundred": "imgs/tuatara.jpeg",
          "fourHundred": "imgs/tuatara-400.jpeg",
@@ -130,7 +130,7 @@
       "model":"Gemera",
       "make":"Koenigsegg",
       "top_speed":249,
-      "description":"With only a 3 cylinder engine, you wouldn't expect this car to be on this list, but Koenigsegg have put their magic into it. It has 1,700 BHP and gets to 60 in a whopping 1.9 seconds. It will also seat four people, so you can enjoy a drive with three friends.",
+      "description":"With a surprisingly low 3 cylinder engine, you wouldn't expect this car to be on this list, but Koenigsegg have put their magic into it. It has 1,700 BHP and gets to 60 in a whopping 1.9 seconds. It will also seat four people, so you can enjoy a drive with three friends.",
       "image":{
          "sixHundred": "imgs/gemera.jpg",
          "fourHundred": "imgs/gemera-400.jpg",
